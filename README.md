@@ -56,11 +56,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshay089&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay089&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay089&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🏆 Trophies
