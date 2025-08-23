@@ -58,13 +58,6 @@
 </p>
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshay089&theme=radical&no-frame=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
-</p>
-
----
-
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay089&theme=tokyo-night" />
