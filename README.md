@@ -56,23 +56,19 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshay089&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay089&layout=compact&theme=tokyonight" />
 </p>
----
+------
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay089&theme=tokyo-night" />
-</p>
+## ✅ 2025 Goals (Live Checklist)
 
----
-
-## ✅ 2025 Goals (live checklist)
-- [ ] Publish a polished **React Native** app to Play Store/TestFlight  
-- [ ] Make **meaningful open-source PRs** (docs + code)  
-- [ ] Build one **AI-powered feature** in a mobile app  
-- [ ] Ship a **full-stack** side project with Firebase  
-- [ ] Share learnings in public (posts, mini-blogs)  
+- ✅ 🤖 Build one **AI-powered feature** in a mobile app  
+- ✅ 📝 Share learnings in public (posts, mini-blogs)  
+- ✅ 💼 Gain **hands-on experience** through an internship  
+- ✅ 🌐 Deploy a **Chrome extension for YouTube (Video Timestamper)**  
+- [ ] 🚀 Publish a polished **React Native app** to Play Store / TestFlight  
+- [ ] 🤝 Make **meaningful open-source PRs** (docs + code)  
 
 ---
+
 
 ## 🤝 Let’s Connect
 <p align="center">
