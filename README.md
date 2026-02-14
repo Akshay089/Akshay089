@@ -1,21 +1,15 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:6A82FB&height=220&section=header&text=Akshay%20Kale&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20•%20React%20Native%20%7C%20Firebase%20%7C%20Android&descAlignY=55&descAlign=50&fontColor=ffffff&width=1200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:6A82FB&height=220&section=header&text=Akshay%20Kale&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20•%20React%20Native%20Android&descAlignY=55&descAlign=50&fontColor=ffffff&width=1200)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=26&duration=3500&pause=900&center=true&vCenter=true&width=850&lines=🚀+Building+polished+mobile+apps;🤖+AI-powered+features+%7C+Full-stack+experiments;🔥+Learning+by+building;🌍+Open+to+collaboration+%26+open+source" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Akshay089?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Akshay089?style=for-the-badge&color=6A82FB"></a>
-  <a href="https://github.com/Akshay089"><img alt="Stars" src="https://img.shields.io/github/stars/Akshay089?style=for-the-badge&color=FF6F61"></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Akshay089&style=for-the-badge&label=VIEWS&color=00C9A7">
 </p>
 
 ---
 
 ## 👋 About Me
 - 🎓 Final-year **B.Tech CSE** @ Government College of Engineering, Aurangabad (GECA)  
-- 📱 **Mobile App Developer** focused on **React Native, Firebase & Android**  
+- 📱 **Mobile App Developer** focused on **React Native and Android App Development**  
 - 🤖 Exploring **AI-powered apps** and practical full-stack ideas  
 - 🔭 Goal: ship resume-ready projects & contribute to open source  
 - ⚡ Motto: *learn by building — every day*  
@@ -57,18 +51,6 @@
 </p>
 
 ---
-
-## ✅ 2025 Goals (Live Checklist)
-
-- ✅ 🤖 Build one **AI-powered feature** in a mobile app  
-- ✅ 📝 Share learnings in public (posts, mini-blogs)  
-- ✅ 💼 Gain **hands-on experience** through an internship  
-- ✅ 🌐 Deploy a **Chrome extension for YouTube (Video Timestamper)**  
-- [ ] 🚀 Publish a polished **React Native app** to Play Store / TestFlight  
-- [ ] 🤝 Make **meaningful open-source PRs** (docs + code)  
-
----
-
 
 ## 🤝 Let’s Connect
 <p align="center">
