@@ -1,5 +1,5 @@
 <!-- HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:6A82FB&height=220&section=header&text=Akshay%20Kale&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20•%20React%20Native%20Android&descAlignY=55&descAlign=50&fontColor=ffffff&width=1200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:6A82FB&height=220&section=header&text=Akshay%20Kale&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20•%20React%20Native%20(Android)&descAlignY=55&descAlign=50&fontColor=ffffff&width=1200)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=26&duration=3500&pause=900&center=true&vCenter=true&width=850&lines=🚀+Building+polished+mobile+apps;🤖+AI-powered+features+%7C+Full-stack+experiments;🔥+Learning+by+building;🌍+Open+to+collaboration+%26+open+source" />
@@ -40,15 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshay089&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay089&layout=compact&theme=tokyonight" /> -->
-</p>
 
 ---
 
